@@ -1,0 +1,201 @@
+,Employee_ID,Age,Gender,Department,Location,Years_of_Experience,Monthly_Salary,Performance_Score
+0,1001,50,Female,Marketing,Austin,4,105046,79.6
+1,1002,36,Female,Sales,New York,1,59287,71.7
+2,1003,29,Male,Marketing,San Francisco,5,69711,87.2
+3,1004,42,Female,HR,San Francisco,1,41954,74.4
+4,1005,40,Female,Marketing,Austin,12,103340,82.5
+5,1006,44,Male,Engineering,New York,10,102101,74.2
+6,1007,32,Male,Engineering,Seattle,10,101520,67.2
+7,1008,32,Female,HR,Seattle,15,117062,59.4
+8,1009,45,Male,Sales,San Francisco,10,48574,64.0
+9,1010,57,Male,Engineering,New York,18,39184,67.4
+10,1011,45,Female,Finance,San Francisco,14,49096,83.6
+11,1012,24,Male,Engineering,Chicago,15,97728,77.7
+12,1013,43,Male,Engineering,San Francisco,10,64016,73.3
+13,1014,23,Female,Sales,San Francisco,15,41246,78.7
+14,1015,45,Female,Marketing,Seattle,7,75558,75.3
+15,1016,51,Male,Engineering,Seattle,3,48381,72.6
+16,1017,59,Male,HR,Seattle,7,66455,55.0
+17,1018,23,Female,Marketing,Chicago,3,34018,81.4
+18,1019,42,Female,Finance,Seattle,2,41302,65.4
+19,1020,54,Female,Sales,New York,2,97506,80.9
+20,1021,33,Female,Finance,Austin,17,71157,81.9
+21,1022,43,Male,Marketing,New York,18,84917,63.3
+22,1023,46,Female,Marketing,New York,18,113122,79.5
+23,1024,48,Female,Marketing,Seattle,4,54519,66.4
+24,1025,49,Male,Finance,Austin,17,117487,66.4
+25,1026,37,Female,Marketing,Austin,9,86819,72.6
+26,1027,36,Male,Finance,Austin,5,110910,72.8
+27,1028,24,Female,Marketing,Chicago,0,101324,70.4
+28,1029,58,Female,HR,Seattle,4,35408,56.7
+29,1030,28,Female,Marketing,Austin,8,89379,68.8
+30,1031,42,Male,Finance,Chicago,11,55053,92.8
+31,1032,30,Male,Engineering,San Francisco,13,39446,42.2
+32,1033,39,Female,Marketing,San Francisco,1,30922,78.7
+33,1034,25,Male,Engineering,Chicago,16,81356,80.6
+34,1035,46,Male,HR,Chicago,13,40789,56.4
+35,1036,35,Male,Sales,Seattle,12,96656,65.3
+36,1037,30,Male,HR,Seattle,8,74028,60.0
+37,1038,47,Male,Marketing,San Francisco,14,94484,88.5
+38,1039,23,Male,Engineering,Austin,14,62154,81.0
+39,1040,41,Female,Engineering,San Francisco,10,112870,81.5
+40,1041,49,Female,Finance,Austin,15,32336,71.2
+41,1042,28,Male,Engineering,Austin,16,97779,83.1
+42,1043,29,Female,Finance,Seattle,3,49029,69.9
+43,1044,56,Female,Sales,New York,0,89201,83.6
+44,1045,35,Female,Marketing,New York,7,62265,68.5
+45,1046,38,Female,Finance,Chicago,16,73872,63.2
+46,1047,57,Male,Sales,Seattle,2,76197,88.1
+47,1048,25,Female,Engineering,Austin,19,85180,69.8
+48,1049,23,Female,Engineering,New York,14,53710,61.0
+49,1050,27,Male,Sales,Austin,14,59486,60.9
+50,1051,25,Male,Engineering,New York,13,101907,60.9
+51,1052,50,Female,Sales,New York,13,101895,78.4
+52,1053,39,Female,Finance,New York,1,94435,69.0
+53,1054,47,Female,Finance,Seattle,12,70631,93.0
+54,1055,55,Female,Sales,San Francisco,13,50103,81.9
+55,1056,31,Female,Finance,Austin,18,94772,72.6
+56,1057,57,Female,Finance,Seattle,6,44382,84.0
+57,1058,35,Male,Finance,Seattle,2,114291,65.0
+58,1059,52,Female,HR,Seattle,14,33756,51.5
+59,1060,36,Female,Marketing,Seattle,13,50609,60.1
+60,1061,29,Male,Engineering,Seattle,10,46478,71.5
+61,1062,35,Male,HR,Chicago,14,69666,67.8
+62,1063,44,Male,Finance,Austin,12,105683,78.2
+63,1064,42,Male,Sales,Seattle,17,101315,68.8
+64,1065,37,Female,Finance,Austin,5,107834,77.5
+65,1066,39,Female,Marketing,Chicago,2,44153,85.0
+66,1067,45,Female,Finance,Chicago,18,106325,68.7
+67,1068,47,Female,Sales,Austin,14,42999,75.6
+68,1069,46,Female,Marketing,New York,4,85318,52.5
+69,1070,50,Female,Finance,San Francisco,9,30814,68.8
+70,1071,36,Male,Marketing,New York,6,106077,57.7
+71,1072,22,Female,Engineering,New York,16,32443,71.5
+72,1073,46,Male,Engineering,New York,6,105993,72.4
+73,1074,28,Male,Finance,Seattle,11,105916,72.3
+74,1075,30,Female,Marketing,Chicago,16,103319,65.2
+75,1076,45,Male,Sales,New York,12,47368,93.0
+76,1077,22,Female,Finance,Chicago,19,45328,57.3
+77,1078,29,Male,Engineering,Austin,3,86942,56.7
+78,1079,45,Female,Engineering,San Francisco,9,57306,86.5
+79,1080,32,Male,Finance,Austin,2,115451,63.0
+80,1081,38,Female,Marketing,Austin,8,69915,60.6
+81,1082,29,Female,Engineering,Seattle,12,67219,93.0
+82,1083,56,Female,Marketing,San Francisco,17,110879,79.9
+83,1084,56,Female,Engineering,Austin,14,94644,64.1
+84,1085,54,Female,Engineering,Austin,3,90279,72.2
+85,1086,26,Male,HR,San Francisco,14,83028,89.5
+86,1087,49,Male,Engineering,San Francisco,1,30126,76.9
+87,1088,28,Male,Sales,Austin,14,82329,82.9
+88,1089,30,Female,Finance,San Francisco,7,57632,78.0
+89,1090,29,Male,Finance,Austin,7,95310,79.3
+90,1091,33,Female,Marketing,Austin,16,85176,70.4
+91,1092,55,Female,Engineering,Seattle,11,116066,70.1
+92,1093,54,Male,Sales,New York,18,74327,72.7
+93,1094,44,Male,Marketing,Austin,9,98904,77.3
+94,1095,45,Female,HR,Chicago,8,33797,67.2
+95,1096,58,Male,Marketing,New York,4,77882,71.2
+96,1097,56,Female,Marketing,New York,5,43718,66.9
+97,1098,43,Female,Engineering,New York,19,64560,71.2
+98,1099,48,Female,HR,Seattle,1,106589,57.5
+99,1100,56,Female,Marketing,Austin,12,52116,96.1
+100,1101,22,Female,Sales,Seattle,5,66244,62.7
+101,1102,56,Male,Sales,Austin,4,31645,66.4
+102,1103,58,Male,Finance,Seattle,0,77523,61.8
+103,1104,35,Female,HR,Seattle,5,49256,76.2
+104,1105,24,Female,HR,Chicago,5,83173,68.0
+105,1106,22,Male,Finance,Seattle,15,67430,60.4
+106,1107,26,Male,Marketing,San Francisco,3,69282,76.6
+107,1108,47,Female,HR,Chicago,10,93374,77.9
+108,1109,35,Male,Sales,Seattle,8,98244,69.3
+109,1110,48,Female,Sales,New York,2,41694,63.4
+110,1111,30,Male,Engineering,San Francisco,18,86264,91.9
+111,1112,36,Female,HR,San Francisco,7,105060,73.4
+112,1113,36,Male,Marketing,San Francisco,4,87545,57.3
+113,1114,47,Female,Finance,Chicago,3,69224,84.1
+114,1115,34,Male,Finance,Seattle,5,43224,61.4
+115,1116,53,Male,Marketing,Seattle,1,70738,97.4
+116,1117,53,Female,Engineering,New York,19,55150,70.8
+117,1118,25,Male,Finance,New York,10,93731,80.1
+118,1119,51,Female,HR,San Francisco,3,79688,49.2
+119,1120,58,Male,Engineering,New York,14,103509,57.2
+120,1121,44,Female,HR,Chicago,5,38577,83.3
+121,1122,36,Male,Sales,Seattle,16,38070,73.2
+122,1123,50,Female,Engineering,San Francisco,5,38666,90.4
+123,1124,57,Male,Finance,New York,18,87761,74.9
+124,1125,34,Female,Engineering,Chicago,1,66368,71.5
+125,1126,53,Male,Engineering,Chicago,14,36783,87.1
+126,1127,28,Female,Engineering,New York,10,71914,80.1
+127,1128,43,Female,Engineering,Seattle,7,100507,68.0
+128,1129,49,Female,HR,New York,18,109026,59.1
+129,1130,23,Male,Sales,San Francisco,12,97526,46.3
+130,1131,27,Female,Marketing,New York,11,100835,65.6
+131,1132,49,Male,Engineering,Chicago,4,75765,58.1
+132,1133,49,Female,Finance,New York,5,49956,96.0
+133,1134,41,Male,Engineering,Seattle,3,117895,63.5
+134,1135,51,Female,Finance,Austin,18,76240,63.2
+135,1136,32,Male,HR,New York,19,67148,54.8
+136,1137,49,Male,Finance,Seattle,0,34757,67.3
+137,1138,46,Female,Marketing,Seattle,19,49097,63.4
+138,1139,54,Male,Sales,Chicago,16,40395,87.4
+139,1140,22,Male,Finance,Seattle,11,46241,71.7
+140,1141,48,Female,Finance,Seattle,14,57696,69.9
+141,1142,34,Male,Sales,Seattle,0,100480,68.7
+142,1143,24,Male,Marketing,Seattle,13,76163,77.9
+143,1144,27,Male,Engineering,San Francisco,5,49816,65.5
+144,1145,29,Female,Finance,San Francisco,4,79840,76.7
+145,1146,48,Male,Sales,Chicago,10,82853,86.1
+146,1147,30,Female,HR,New York,3,54917,74.6
+147,1148,58,Male,Sales,Seattle,12,51566,67.5
+148,1149,54,Male,HR,New York,10,105452,60.5
+149,1150,45,Male,Marketing,New York,2,92823,67.2
+150,1151,36,Female,Engineering,Chicago,0,50806,75.6
+151,1152,53,Male,Sales,Seattle,5,105520,54.7
+152,1153,53,Male,Finance,Seattle,17,31759,78.3
+153,1154,45,Female,Marketing,Austin,9,71949,72.1
+154,1155,33,Male,Sales,New York,4,32482,68.5
+155,1156,23,Female,Finance,New York,9,54442,63.4
+156,1157,24,Female,Sales,San Francisco,11,63719,65.2
+157,1158,58,Male,HR,Austin,1,88066,76.0
+158,1159,38,Female,Sales,San Francisco,12,32079,68.7
+159,1160,23,Male,Sales,San Francisco,7,32717,65.0
+160,1161,23,Female,Sales,San Francisco,1,89676,74.7
+161,1162,49,Female,Marketing,Chicago,19,57952,75.1
+162,1163,44,Male,Sales,Chicago,0,116444,57.5
+163,1164,58,Female,Finance,San Francisco,4,72460,75.7
+164,1165,53,Female,HR,Austin,8,102847,95.0
+165,1166,54,Female,HR,New York,16,119106,74.7
+166,1167,22,Female,Sales,Austin,8,48449,53.0
+167,1168,40,Female,Marketing,Seattle,10,63536,71.8
+168,1169,23,Male,Marketing,Chicago,14,94077,51.7
+169,1170,47,Female,Finance,New York,5,68258,101.7
+170,1171,53,Male,Sales,New York,2,78302,92.4
+171,1172,27,Female,HR,Seattle,16,58865,63.3
+172,1173,53,Male,Marketing,Seattle,4,36645,47.5
+173,1174,25,Male,Sales,San Francisco,11,68000,61.2
+174,1175,32,Female,Marketing,Chicago,17,56737,68.2
+175,1176,38,Female,Marketing,Chicago,13,41485,52.4
+176,1177,59,Female,HR,Austin,10,68565,69.3
+177,1178,45,Male,Engineering,San Francisco,8,55522,68.1
+178,1179,26,Female,Finance,San Francisco,1,95155,71.3
+179,1180,55,Male,Finance,San Francisco,11,85168,72.3
+180,1181,27,Male,HR,San Francisco,2,82487,60.3
+181,1182,43,Male,Marketing,Chicago,2,42342,61.5
+182,1183,32,Female,Sales,Chicago,0,70806,70.5
+183,1184,37,Female,Marketing,San Francisco,7,78770,63.7
+184,1185,54,Male,HR,Austin,7,108623,79.1
+185,1186,30,Male,Finance,New York,10,105629,70.4
+186,1187,27,Female,Marketing,New York,8,82603,88.7
+187,1188,37,Male,Finance,Austin,4,111974,78.2
+188,1189,50,Female,Sales,San Francisco,13,56399,81.0
+189,1190,24,Male,Finance,Chicago,2,115382,71.3
+190,1191,41,Female,Finance,New York,4,111244,71.6
+191,1192,57,Male,Engineering,Seattle,4,106534,87.3
+192,1193,40,Female,Engineering,Seattle,18,85106,66.2
+193,1194,47,Male,Engineering,Austin,13,60678,75.5
+194,1195,24,Female,Finance,San Francisco,3,106218,67.3
+195,1196,40,Female,HR,New York,12,93230,67.3
+196,1197,41,Male,Finance,San Francisco,9,104055,58.3
+197,1198,53,Male,HR,New York,17,86373,62.6
+198,1199,28,Female,HR,Austin,7,61480,60.7
+199,1200,54,Male,Engineering,Austin,7,115230,75.9
